@@ -1,4 +1,4 @@
-import {RESTART_GAME, MAKE_GUESS, GENERATE_AURAL_UPDATE} from '../actions';
+import {RESTART_GAME, MAKE_GUESS, GENERATE_AURAL_UPDATE} from '../actions/actions';
 
 const initialState = {
     guesses: [],

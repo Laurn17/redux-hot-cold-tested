@@ -1,7 +1,7 @@
 import React from 'react';
 import {connect} from 'react-redux';
 
-import {generateAuralUpdate, restartGame} from '../actions';
+import {generateAuralUpdate, restartGame} from '../actions/actions';
 
 import './top-nav.css';
 
